@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Responsive portfolio for Coding Bootcamp 
+****Correction Bootstrap portfolio for Coding Bootcamp***** 
